@@ -1,0 +1,3204 @@
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.871963  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -201.825440,  Ty = 2035.235099,  Tz = 1807.842432  [mm]
+
+       Rx = 96.066884,  Ry = -1.482021,  Rz = -0.425233  [deg]
+
+       R
+        0.999638  -0.026502  -0.004647
+       -0.007419  -0.105496  -0.994392
+        0.025863   0.994067  -0.105654
+
+       sx = 1.038150
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 965.746921
+
+       distorted image plane error:
+         mean = 1.353505,  stddev = 0.913010,  max = 4.295815  [pix],  sse = 73.802195  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.353505,  stddev = 0.913010,  max = 4.295815  [pix],  sse = 73.802195  [pix^2]
+
+       object space error:
+         mean = 58.088600,  stddev = 27.271621,  max = 120.698813  [mm],  sse = 114561.006736  [mm^2]
+
+       normalized calibration error:  3.270565
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.873002  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -202.394150,  Ty = 2026.501963,  Tz = 1775.523156  [mm]
+
+       Rx = 96.031933,  Ry = -1.416720,  Rz = -0.403878  [deg]
+
+       R
+        0.999669  -0.025327  -0.004412
+       -0.007047  -0.104907  -0.994457
+        0.024724   0.994159  -0.105051
+
+       sx = 1.034596
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 947.955659
+
+       distorted image plane error:
+         mean = 1.189593,  stddev = 0.768176,  max = 3.396159  [pix],  sse = 55.556216  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.189593,  stddev = 0.768176,  max = 3.396159  [pix],  sse = 55.556216  [pix^2]
+
+       object space error:
+         mean = 52.134961,  stddev = 25.102789,  max = 97.069394  [mm],  sse = 93119.566964  [mm^2]
+
+       normalized calibration error:  2.880510
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.869937  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -210.667193,  Ty = 2032.051321,  Tz = 1792.481103  [mm]
+
+       Rx = 96.044333,  Ry = -1.437471,  Rz = -0.381288  [deg]
+
+       R
+        0.999663  -0.025647  -0.003976
+       -0.006653  -0.105130  -0.994436
+        0.025086   0.994128  -0.105265
+
+       sx = 1.040624
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 958.578567
+
+       distorted image plane error:
+         mean = 1.293019,  stddev = 0.825888,  max = 3.687171  [pix],  sse = 65.229614  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.293019,  stddev = 0.825888,  max = 3.687171  [pix],  sse = 65.229614  [pix^2]
+
+       object space error:
+         mean = 55.223917,  stddev = 24.307029,  max = 103.222201  [mm],  sse = 101343.523384  [mm^2]
+
+       normalized calibration error:  3.122420
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.872457  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -203.084824,  Ty = 2027.545757,  Tz = 1779.327446  [mm]
+
+       Rx = 96.034190,  Ry = -1.414046,  Rz = -0.408302  [deg]
+
+       R
+        0.999670  -0.025289  -0.004493
+       -0.007124  -0.104944  -0.994453
+        0.024677   0.994157  -0.105090
+
+       sx = 1.035374
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 950.263270
+
+       distorted image plane error:
+         mean = 1.157110,  stddev = 0.785307,  max = 3.409148  [pix],  sse = 54.140411  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.157110,  stddev = 0.785307,  max = 3.409148  [pix],  sse = 54.140411  [pix^2]
+
+       object space error:
+         mean = 50.443668,  stddev = 25.539466,  max = 96.534299  [mm],  sse = 88858.919215  [mm^2]
+
+       normalized calibration error:  2.801760
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.875007  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -215.877036,  Ty = 2023.905187,  Tz = 1768.450306  [mm]
+
+       Rx = 96.030231,  Ry = -1.447985,  Rz = -0.448224  [deg]
+
+       R
+        0.999650  -0.025951  -0.005125
+       -0.007820  -0.104853  -0.994457
+        0.025269   0.994149  -0.105020
+
+       sx = 1.032166
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 943.169887
+
+       distorted image plane error:
+         mean = 1.449689,  stddev = 0.888560,  max = 3.955766  [pix],  sse = 80.162320  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.449689,  stddev = 0.888560,  max = 3.955766  [pix],  sse = 80.162320  [pix^2]
+
+       object space error:
+         mean = 62.300031,  stddev = 27.331951,  max = 111.251324  [mm],  sse = 128846.187724  [mm^2]
+
+       normalized calibration error:  3.508285
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.872618  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -206.833574,  Ty = 2030.682367,  Tz = 1789.153201  [mm]
+
+       Rx = 96.049400,  Ry = -1.306432,  Rz = -0.425040  [deg]
+
+       R
+        0.999713  -0.023454  -0.004974
+       -0.007416  -0.105215  -0.994422
+        0.022800   0.994173  -0.105358
+
+       sx = 1.036325
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 955.428889
+
+       distorted image plane error:
+         mean = 1.030959,  stddev = 0.731440,  max = 3.058756  [pix],  sse = 44.205700  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.030959,  stddev = 0.731440,  max = 3.058756  [pix],  sse = 44.205700  [pix^2]
+
+       object space error:
+         mean = 46.531720,  stddev = 29.830507,  max = 123.473146  [mm],  sse = 84651.823293  [mm^2]
+
+       normalized calibration error:  2.499939
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.872618  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -206.833574,  Ty = 2030.682367,  Tz = 1789.153201  [mm]
+
+       Rx = 96.049400,  Ry = -1.306432,  Rz = -0.425040  [deg]
+
+       R
+        0.999713  -0.023454  -0.004974
+       -0.007416  -0.105215  -0.994422
+        0.022800   0.994173  -0.105358
+
+       sx = 1.036325
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 955.428889
+
+       distorted image plane error:
+         mean = 1.030959,  stddev = 0.731440,  max = 3.058756  [pix],  sse = 44.205700  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.030959,  stddev = 0.731440,  max = 3.058756  [pix],  sse = 44.205700  [pix^2]
+
+       object space error:
+         mean = 46.531720,  stddev = 29.830507,  max = 123.473146  [mm],  sse = 84651.823293  [mm^2]
+
+       normalized calibration error:  2.499939
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.869684  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -215.148983,  Ty = 2036.261167,  Tz = 1806.840560  [mm]
+
+       Rx = 96.061964,  Ry = -1.327254,  Rz = -0.402451  [deg]
+
+       R
+        0.999707  -0.023775  -0.004539
+       -0.007022  -0.105440  -0.994401
+        0.023163   0.994141  -0.105576
+
+       sx = 1.042227
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 966.388080
+
+       distorted image plane error:
+         mean = 1.082996,  stddev = 0.747342,  max = 3.345378  [pix],  sse = 47.920697  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.082996,  stddev = 0.747342,  max = 3.345378  [pix],  sse = 47.920697  [pix^2]
+
+       object space error:
+         mean = 47.165681,  stddev = 24.683307,  max = 102.572194  [mm],  sse = 78739.012238  [mm^2]
+
+       normalized calibration error:  2.619600
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.873887  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -206.980460,  Ty = 2023.330914,  Tz = 1762.548709  [mm]
+
+       Rx = 96.022084,  Ry = -1.248961,  Rz = -0.424739  [deg]
+
+       R
+        0.999735  -0.022454  -0.005085
+       -0.007411  -0.104748  -0.994471
+        0.021797   0.994245  -0.104887
+
+       sx = 1.033593
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 940.584290
+
+       distorted image plane error:
+         mean = 0.996813,  stddev = 0.724864,  max = 2.941702  [pix],  sse = 42.008334  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.996813,  stddev = 0.724864,  max = 2.941702  [pix],  sse = 42.008334  [pix^2]
+
+       object space error:
+         mean = 46.580049,  stddev = 34.827604,  max = 142.557028  [mm],  sse = 93501.601493  [mm^2]
+
+       normalized calibration error:  2.420007
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.870448  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -215.971949,  Ty = 2029.915720,  Tz = 1784.118139  [mm]
+
+       Rx = 96.036787,  Ry = -1.266818,  Rz = -0.406708  [deg]
+
+       R
+        0.999730  -0.022732  -0.004734
+       -0.007097  -0.105008  -0.994446
+        0.022108   0.994212  -0.105141
+
+       sx = 1.040171
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 953.845261
+
+       distorted image plane error:
+         mean = 0.957937,  stddev = 0.705033,  max = 3.217887  [pix],  sse = 39.114968  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.957937,  stddev = 0.705033,  max = 3.217887  [pix],  sse = 39.114968  [pix^2]
+
+       object space error:
+         mean = 42.879190,  stddev = 27.676029,  max = 121.214138  [mm],  sse = 72162.486578  [mm^2]
+
+       normalized calibration error:  2.322285
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.871464  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -218.352905,  Ty = 2028.976984,  Tz = 1780.086540  [mm]
+
+       Rx = 96.037006,  Ry = -1.248879,  Rz = -0.393188  [deg]
+
+       R
+        0.999739  -0.022396  -0.004532
+       -0.006861  -0.105020  -0.994446
+        0.021795   0.994218  -0.105146
+
+       sx = 1.038784
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 951.173057
+
+       distorted image plane error:
+         mean = 0.960408,  stddev = 0.691166,  max = 3.168945  [pix],  sse = 38.724929  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.960408,  stddev = 0.691166,  max = 3.168945  [pix],  sse = 38.724929  [pix^2]
+
+       object space error:
+         mean = 42.573146,  stddev = 25.023254,  max = 88.787846  [mm],  sse = 67655.643855  [mm^2]
+
+       normalized calibration error:  2.328759
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.871740  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -215.768717,  Ty = 2020.236108,  Tz = 1747.042961  [mm]
+
+       Rx = 96.000114,  Ry = -1.206209,  Rz = -0.381138  [deg]
+
+       R
+        0.999756  -0.021630  -0.004415
+       -0.006651  -0.104389  -0.994514
+        0.021051   0.994301  -0.104507
+
+       sx = 1.036021
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 933.378951
+
+       distorted image plane error:
+         mean = 0.951569,  stddev = 0.632592,  max = 2.357506  [pix],  sse = 36.158172  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.951569,  stddev = 0.632592,  max = 2.357506  [pix],  sse = 36.158172  [pix^2]
+
+       object space error:
+         mean = 44.933265,  stddev = 34.054455,  max = 144.440366  [mm],  sse = 87844.011050  [mm^2]
+
+       normalized calibration error:  2.309044
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.873731  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -197.675396,  Ty = 2035.092871,  Tz = 1803.773653  [mm]
+
+       Rx = 96.078995,  Ry = -1.355745,  Rz = -0.487834  [deg]
+
+       R
+        0.999684  -0.024428  -0.005961
+       -0.008512  -0.105695  -0.994362
+        0.023660   0.994098  -0.105870
+
+       sx = 1.034393
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 962.664397
+
+       distorted image plane error:
+         mean = 1.112694,  stddev = 0.957845,  max = 4.419112  [pix],  sse = 59.438077  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.112694,  stddev = 0.957845,  max = 4.419112  [pix],  sse = 59.438077  [pix^2]
+
+       object space error:
+         mean = 49.790907,  stddev = 33.511126,  max = 124.628763  [mm],  sse = 99736.641976  [mm^2]
+
+       normalized calibration error:  2.699698
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.871040  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -215.266590,  Ty = 2028.868960,  Tz = 1780.523984  [mm]
+
+       Rx = 96.034543,  Ry = -1.269565,  Rz = -0.402267  [deg]
+
+       R
+        0.999730  -0.022771  -0.004653
+       -0.007019  -0.104971  -0.994451
+        0.022156   0.994215  -0.105102
+
+       sx = 1.039387
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 951.622624
+
+       distorted image plane error:
+         mean = 0.991374,  stddev = 0.707720,  max = 3.199840  [pix],  sse = 41.042444  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.991374,  stddev = 0.707720,  max = 3.199840  [pix],  sse = 41.042444  [pix^2]
+
+       object space error:
+         mean = 44.589338,  stddev = 28.408798,  max = 121.733156  [mm],  sse = 77460.469186  [mm^2]
+
+       normalized calibration error:  2.402867
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.873358  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -207.676458,  Ty = 2024.364004,  Tz = 1766.380495  [mm]
+
+       Rx = 96.024297,  Ry = -1.246181,  Rz = -0.429131  [deg]
+
+       R
+        0.999735  -0.022414  -0.005166
+       -0.007488  -0.104785  -0.994467
+        0.021748   0.994242  -0.104925
+
+       sx = 1.034364
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 942.895203
+
+       distorted image plane error:
+         mean = 0.960452,  stddev = 0.699664,  max = 2.954117  [pix],  sse = 39.046423  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.960452,  stddev = 0.699664,  max = 2.954117  [pix],  sse = 39.046423  [pix^2]
+
+       object space error:
+         mean = 44.738754,  stddev = 33.204461,  max = 141.990817  [mm],  sse = 85812.049481  [mm^2]
+
+       normalized calibration error:  2.332098
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.872912  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -213.965468,  Ty = 2020.344732,  Tz = 1750.492300  [mm]
+
+       Rx = 96.004687,  Ry = -1.179975,  Rz = -0.423610  [deg]
+
+       R
+        0.999761  -0.021253  -0.005199
+       -0.007392  -0.104456  -0.994502
+        0.020593   0.994302  -0.104588
+
+       sx = 1.032225
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 934.636672
+
+       distorted image plane error:
+         mean = 0.969416,  stddev = 0.701215,  max = 2.820768  [pix],  sse = 39.589440  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.969416,  stddev = 0.701215,  max = 2.820768  [pix],  sse = 39.589440  [pix^2]
+
+       object space error:
+         mean = 46.464825,  stddev = 37.888864,  max = 160.247090  [mm],  sse = 99211.720855  [mm^2]
+
+       normalized calibration error:  2.354918
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.872347  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -214.679932,  Ty = 2021.355462,  Tz = 1754.014249  [mm]
+
+       Rx = 96.006834,  Ry = -1.177099,  Rz = -0.427824  [deg]
+
+       R
+        0.999761  -0.021211  -0.005276
+       -0.007465  -0.104492  -0.994498
+        0.020543   0.994300  -0.104625
+
+       sx = 1.032976
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 936.800014
+
+       distorted image plane error:
+         mean = 0.934367,  stddev = 0.713420,  max = 2.833027  [pix],  sse = 38.187313  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.934367,  stddev = 0.713420,  max = 2.833027  [pix],  sse = 38.187313  [pix^2]
+
+       object space error:
+         mean = 44.696239,  stddev = 38.143218,  max = 159.750173  [mm],  sse = 95219.541711  [mm^2]
+
+       normalized calibration error:  2.270260
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.872705  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -213.952994,  Ty = 2018.873808,  Tz = 1745.072426  [mm]
+
+       Rx = 95.997474,  Ry = -1.181846,  Rz = -0.424912  [deg]
+
+       R
+        0.999760  -0.021287  -0.005220
+       -0.007414  -0.104330  -0.994515
+        0.020626   0.994315  -0.104462
+
+       sx = 1.031768
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 931.846064
+
+       distorted image plane error:
+         mean = 0.939614,  stddev = 0.687424,  max = 2.838732  [pix],  sse = 37.479400  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.939614,  stddev = 0.687424,  max = 2.838732  [pix],  sse = 37.479400  [pix^2]
+
+       object space error:
+         mean = 44.298816,  stddev = 34.981741,  max = 160.444037  [mm],  sse = 87987.281787  [mm^2]
+
+       normalized calibration error:  2.283611
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.873408  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -216.678147,  Ty = 2018.956581,  Tz = 1744.856569  [mm]
+
+       Rx = 96.000736,  Ry = -1.162606,  Rz = -0.414177  [deg]
+
+       R
+        0.999768  -0.020934  -0.005068
+       -0.007227  -0.104393  -0.994510
+        0.020290   0.994316  -0.104520
+
+       sx = 1.030983
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 931.381145
+
+       distorted image plane error:
+         mean = 0.920676,  stddev = 0.667633,  max = 2.798176  [pix],  sse = 35.768856  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.920676,  stddev = 0.667633,  max = 2.798176  [pix],  sse = 35.768856  [pix^2]
+
+       object space error:
+         mean = 43.137691,  stddev = 32.994341,  max = 164.780279  [mm],  sse = 81497.007731  [mm^2]
+
+       normalized calibration error:  2.238636
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.875391  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -230.106565,  Ty = 2016.366583,  Tz = 1737.702186  [mm]
+
+       Rx = 95.998797,  Ry = -1.193367,  Rz = -0.458138  [deg]
+
+       R
+        0.999751  -0.021548  -0.005776
+       -0.007994  -0.104339  -0.994510
+        0.020827   0.994308  -0.104485
+
+       sx = 1.028315
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 926.581355
+
+       distorted image plane error:
+         mean = 0.982819,  stddev = 0.763912,  max = 3.324575  [pix],  sse = 42.802280  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.982819,  stddev = 0.763912,  max = 3.324575  [pix],  sse = 42.802280  [pix^2]
+
+       object space error:
+         mean = 43.531144,  stddev = 30.286574,  max = 143.080415  [mm],  sse = 77825.360241  [mm^2]
+
+       normalized calibration error:  2.389544
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.873841  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -219.766652,  Ty = 2019.075007,  Tz = 1744.416103  [mm]
+
+       Rx = 96.003320,  Ry = -1.141657,  Rz = -0.405011  [deg]
+
+       R
+        0.999777  -0.020554  -0.004946
+       -0.007067  -0.104443  -0.994506
+        0.019924   0.994318  -0.104565
+
+       sx = 1.030365
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 930.930642
+
+       distorted image plane error:
+         mean = 0.898768,  stddev = 0.608491,  max = 2.766763  [pix],  sse = 32.615005  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.898768,  stddev = 0.608491,  max = 2.766763  [pix],  sse = 32.615005  [pix^2]
+
+       object space error:
+         mean = 41.686439,  stddev = 26.240743,  max = 110.625258  [mm],  sse = 67248.825440  [mm^2]
+
+       normalized calibration error:  2.185818
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.875833  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -233.198005,  Ty = 2016.484183,  Tz = 1737.278677  [mm]
+
+       Rx = 96.001367,  Ry = -1.172386,  Rz = -0.448959  [deg]
+
+       R
+        0.999760  -0.021167  -0.005654
+       -0.007834  -0.104390  -0.994506
+        0.020461   0.994311  -0.104530
+
+       sx = 1.027705
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 926.137225
+
+       distorted image plane error:
+         mean = 0.957004,  stddev = 0.720896,  max = 3.294029  [pix],  sse = 39.675643  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.957004,  stddev = 0.720896,  max = 3.294029  [pix],  sse = 39.675643  [pix^2]
+
+       object space error:
+         mean = 41.704284,  stddev = 24.090631,  max = 92.745195  [mm],  sse = 64368.604476  [mm^2]
+
+       normalized calibration error:  2.327273
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.874195  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -222.863839,  Ty = 2019.202481,  Tz = 1743.743792  [mm]
+
+       Rx = 96.005836,  Ry = -1.120611,  Rz = -0.395825  [deg]
+
+       R
+        0.999785  -0.020172  -0.004824
+       -0.006907  -0.104493  -0.994502
+        0.019557   0.994321  -0.104610
+
+       sx = 1.029767
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 930.396265
+
+       distorted image plane error:
+         mean = 0.879142,  stddev = 0.598851,  max = 2.735609  [pix],  sse = 31.323743  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.879142,  stddev = 0.598851,  max = 2.735609  [pix],  sse = 31.323743  [pix^2]
+
+       object space error:
+         mean = 40.389072,  stddev = 24.466454,  max = 114.872425  [mm],  sse = 61838.158412  [mm^2]
+
+       normalized calibration error:  2.138637
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.874037  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.008124,  Ty = 2018.131370,  Tz = 1739.936934  [mm]
+
+       Rx = 96.000327,  Ry = -1.120173,  Rz = -0.395329  [deg]
+
+       R
+        0.999785  -0.020163  -0.004818
+       -0.006898  -0.104397  -0.994512
+        0.019549   0.994331  -0.104514
+
+       sx = 1.029432
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 928.443258
+
+       distorted image plane error:
+         mean = 0.848620,  stddev = 0.582077,  max = 2.742096  [pix],  sse = 29.312315  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.848620,  stddev = 0.582077,  max = 2.742096  [pix],  sse = 29.312315  [pix^2]
+
+       object space error:
+         mean = 38.215092,  stddev = 19.872631,  max = 77.235650  [mm],  sse = 51553.891013  [mm^2]
+
+       normalized calibration error:  2.065318
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.876199  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -236.298369,  Ty = 2016.610818,  Tz = 1736.640325  [mm]
+
+       Rx = 96.003869,  Ry = -1.151307,  Rz = -0.439759  [deg]
+
+       R
+        0.999769  -0.020785  -0.005532
+       -0.007674  -0.104439  -0.994502
+        0.020093   0.994314  -0.104575
+
+       sx = 1.027117
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 925.616488
+
+       distorted image plane error:
+         mean = 0.935846,  stddev = 0.717088,  max = 3.263740  [pix],  sse = 38.406426  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.935846,  stddev = 0.717088,  max = 3.263740  [pix],  sse = 38.406426  [pix^2]
+
+       object space error:
+         mean = 40.206115,  stddev = 23.170830,  max = 93.921159  [mm],  sse = 59758.845847  [mm^2]
+
+       normalized calibration error:  2.276539
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.871242  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -231.136331,  Ty = 2024.753598,  Tz = 1761.352924  [mm]
+
+       Rx = 96.018337,  Ry = -1.141648,  Rz = -0.373373  [deg]
+
+       R
+        0.999780  -0.020497  -0.004392
+       -0.006515  -0.104715  -0.994481
+        0.019924   0.994291  -0.104826
+
+       sx = 1.035589
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 941.274610
+
+       distorted image plane error:
+         mean = 0.841586,  stddev = 0.644484,  max = 2.984323  [pix],  sse = 31.046193  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.841586,  stddev = 0.644484,  max = 2.984323  [pix],  sse = 31.046193  [pix^2]
+
+       object space error:
+         mean = 36.618225,  stddev = 21.395263,  max = 94.081355  [mm],  sse = 49904.490276  [mm^2]
+
+       normalized calibration error:  2.046237
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.873712  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.556674,  Ty = 2020.189341,  Tz = 1747.574632  [mm]
+
+       Rx = 96.007886,  Ry = -1.117912,  Rz = -0.399995  [deg]
+
+       R
+        0.999785  -0.020133  -0.004901
+       -0.006980  -0.104527  -0.994498
+        0.019510   0.994318  -0.104645
+
+       sx = 1.030507
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 932.680582
+
+       distorted image plane error:
+         mean = 0.844013,  stddev = 0.597129,  max = 2.747769  [pix],  sse = 29.573212  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.844013,  stddev = 0.597129,  max = 2.747769  [pix],  sse = 29.573212  [pix^2]
+
+       object space error:
+         mean = 38.614396,  stddev = 23.878915,  max = 114.361505  [mm],  sse = 57145.474231  [mm^2]
+
+       normalized calibration error:  2.053774
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.861933  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -230.009040,  Ty = 2023.131895,  Tz = 1667.289426  [mm]
+
+       Rx = 96.012180,  Ry = -1.124423,  Rz = -0.379551  [deg]
+
+       R
+        0.999786  -0.020209  -0.004533
+       -0.006623  -0.104608  -0.994491
+        0.019624   0.994308  -0.104720
+
+       sx = 1.034474
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 895.461523
+
+       distorted image plane error:
+         mean = 0.696652,  stddev = 0.427682,  max = 1.787669  [pix],  sse = 17.191213  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.696652,  stddev = 0.427682,  max = 1.787669  [pix],  sse = 17.191213  [pix^2]
+
+       object space error:
+         mean = 33.417314,  stddev = 20.895452,  max = 103.049983  [mm],  sse = 39950.135838  [mm^2]
+
+       normalized calibration error:  1.697384
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.858400  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -243.650379,  Ty = 2027.884867,  Tz = 1681.957209  [mm]
+
+       Rx = 96.019860,  Ry = -1.156660,  Rz = -0.365670  [deg]
+
+       R
+        0.999776  -0.020744  -0.004230
+       -0.006381  -0.104743  -0.994479
+        0.020186   0.994283  -0.104852
+
+       sx = 1.042203
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 905.056534
+
+       distorted image plane error:
+         mean = 0.780852,  stddev = 0.525851,  max = 2.209988  [pix],  sse = 22.765944  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.780852,  stddev = 0.525851,  max = 2.209988  [pix],  sse = 22.765944  [pix^2]
+
+       object space error:
+         mean = 35.061594,  stddev = 16.739126,  max = 70.819060  [mm],  sse = 38967.158004  [mm^2]
+
+       normalized calibration error:  1.897681
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.861744  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -230.220491,  Ty = 2021.748893,  Tz = 1662.291336  [mm]
+
+       Rx = 96.005353,  Ry = -1.121657,  Rz = -0.378118  [deg]
+
+       R
+        0.999787  -0.020158  -0.004515
+       -0.006598  -0.104491  -0.994504
+        0.019575   0.994322  -0.104601
+
+       sx = 1.034043
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 892.867632
+
+       distorted image plane error:
+         mean = 0.666022,  stddev = 0.395436,  max = 1.788422  [pix],  sse = 15.442474  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.666022,  stddev = 0.395436,  max = 1.788422  [pix],  sse = 15.442474  [pix^2]
+
+       object space error:
+         mean = 31.282585,  stddev = 15.577544,  max = 62.757331  [mm],  sse = 31510.101259  [mm^2]
+
+       normalized calibration error:  1.624003
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.863355  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -244.403255,  Ty = 2022.464695,  Tz = 1662.634435  [mm]
+
+       Rx = 96.016746,  Ry = -1.167104,  Rz = -0.424131  [deg]
+
+       R
+        0.999765  -0.021032  -0.005227
+       -0.007401  -0.104666  -0.994480
+        0.020368   0.994285  -0.104797
+
+       sx = 1.033101
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 892.279996
+
+       distorted image plane error:
+         mean = 0.799295,  stddev = 0.565961,  max = 2.428619  [pix],  sse = 24.618490  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.799295,  stddev = 0.565961,  max = 2.428619  [pix],  sse = 24.618490  [pix^2]
+
+       object space error:
+         mean = 35.946586,  stddev = 20.378121,  max = 75.984307  [mm],  sse = 43977.778367  [mm^2]
+
+       normalized calibration error:  1.943571
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (24 points)
+
+       f = 1.833556  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -177.143728,  Ty = 2082.818057,  Tz = 1645.026051  [mm]
+
+       Rx = 96.283990,  Ry = -1.610681,  Rz = -0.533056  [deg]
+
+       R
+        0.999562  -0.028956  -0.006171
+       -0.009300  -0.109192  -0.993977
+        0.028108   0.993599  -0.109413
+
+       sx = 1.036041
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 897.177988
+
+       distorted image plane error:
+         mean = 1.158399,  stddev = 0.674080,  max = 2.256903  [pix],  sse = 42.656158  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.158399,  stddev = 0.674080,  max = 2.256903  [pix],  sse = 42.656158  [pix^2]
+
+       object space error:
+         mean = 60.083616,  stddev = 38.842679,  max = 121.930158  [mm],  sse = 121342.317821  [mm^2]
+
+       normalized calibration error:  2.803545
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.861933  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -230.009040,  Ty = 2023.131895,  Tz = 1667.289426  [mm]
+
+       Rx = 96.012180,  Ry = -1.124423,  Rz = -0.379551  [deg]
+
+       R
+        0.999786  -0.020209  -0.004533
+       -0.006623  -0.104608  -0.994491
+        0.019624   0.994308  -0.104720
+
+       sx = 1.034474
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 895.461523
+
+       distorted image plane error:
+         mean = 0.696652,  stddev = 0.427682,  max = 1.787669  [pix],  sse = 17.191213  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.696652,  stddev = 0.427682,  max = 1.787669  [pix],  sse = 17.191213  [pix^2]
+
+       object space error:
+         mean = 33.417314,  stddev = 20.895452,  max = 103.049983  [mm],  sse = 39950.135838  [mm^2]
+
+       normalized calibration error:  1.697384
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (27 points)
+
+       f = 1.870946  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.521691,  Ty = 2020.825092,  Tz = 1725.102189  [mm]
+
+       Rx = 96.010420,  Ry = -1.122596,  Rz = -0.401552  [deg]
+
+       R
+        0.999784  -0.020217  -0.004918
+       -0.007007  -0.104570  -0.994493
+        0.019592   0.994312  -0.104689
+
+       sx = 1.030752
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 922.048171
+
+       distorted image plane error:
+         mean = 0.789799,  stddev = 0.543443,  max = 2.934688  [pix],  sse = 24.520713  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.789799,  stddev = 0.543443,  max = 2.934688  [pix],  sse = 24.520713  [pix^2]
+
+       object space error:
+         mean = 37.311070,  stddev = 23.519541,  max = 113.075225  [mm],  sse = 51969.518101  [mm^2]
+
+       normalized calibration error:  1.922982
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.854282  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -257.412756,  Ty = 2032.743963,  Tz = 1694.137871  [mm]
+
+       Rx = 96.027882,  Ry = -1.188166,  Rz = -0.351162  [deg]
+
+       R
+        0.999766  -0.021264  -0.003918
+       -0.006128  -0.104884  -0.994466
+        0.020736   0.994257  -0.104990
+
+       sx = 1.050165
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 913.635616
+
+       distorted image plane error:
+         mean = 1.054642,  stddev = 0.678316,  max = 3.125247  [pix],  sse = 40.421797  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.054642,  stddev = 0.678316,  max = 3.125247  [pix],  sse = 40.421797  [pix^2]
+
+       object space error:
+         mean = 46.561348,  stddev = 20.004779,  max = 88.271758  [mm],  sse = 66371.716662  [mm^2]
+
+       normalized calibration error:  2.545119
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.861744  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -230.220491,  Ty = 2021.748893,  Tz = 1662.291336  [mm]
+
+       Rx = 96.005353,  Ry = -1.121657,  Rz = -0.378118  [deg]
+
+       R
+        0.999787  -0.020158  -0.004515
+       -0.006598  -0.104491  -0.994504
+        0.019575   0.994322  -0.104601
+
+       sx = 1.034043
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 892.867632
+
+       distorted image plane error:
+         mean = 0.666022,  stddev = 0.395436,  max = 1.788422  [pix],  sse = 15.442474  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.666022,  stddev = 0.395436,  max = 1.788422  [pix],  sse = 15.442474  [pix^2]
+
+       object space error:
+         mean = 31.282585,  stddev = 15.577544,  max = 62.757331  [mm],  sse = 31510.101259  [mm^2]
+
+       normalized calibration error:  1.624003
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.863228  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -244.608302,  Ty = 2021.088076,  Tz = 1657.956482  [mm]
+
+       Rx = 96.009943,  Ry = -1.164250,  Rz = -0.422681  [deg]
+
+       R
+        0.999766  -0.020979  -0.005209
+       -0.007376  -0.104549  -0.994492
+        0.020319   0.994298  -0.104679
+
+       sx = 1.032673
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 889.830314
+
+       distorted image plane error:
+         mean = 0.767711,  stddev = 0.569428,  max = 2.428650  [pix],  sse = 23.430087  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.767711,  stddev = 0.569428,  max = 2.428650  [pix],  sse = 23.430087  [pix^2]
+
+       object space error:
+         mean = 33.889154,  stddev = 18.809021,  max = 71.901413  [mm],  sse = 38704.825312  [mm^2]
+
+       normalized calibration error:  1.868364
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.863228  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -244.608302,  Ty = 2021.088076,  Tz = 1657.956482  [mm]
+
+       Rx = 96.009943,  Ry = -1.164250,  Rz = -0.422681  [deg]
+
+       R
+        0.999766  -0.020979  -0.005209
+       -0.007376  -0.104549  -0.994492
+        0.020319   0.994298  -0.104679
+
+       sx = 1.032673
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 889.830314
+
+       distorted image plane error:
+         mean = 0.767711,  stddev = 0.569428,  max = 2.428650  [pix],  sse = 23.430087  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.767711,  stddev = 0.569428,  max = 2.428650  [pix],  sse = 23.430087  [pix^2]
+
+       object space error:
+         mean = 33.889154,  stddev = 18.809021,  max = 71.901413  [mm],  sse = 38704.825312  [mm^2]
+
+       normalized calibration error:  1.868364
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.745992  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -247.048353,  Ty = 2020.982412,  Tz = 919.416982  [mm]
+
+       Rx = 96.010765,  Ry = -1.171513,  Rz = -0.430291  [deg]
+
+       R
+        0.999763  -0.021119  -0.005328
+       -0.007508  -0.104560  -0.994490
+        0.020445   0.994294  -0.104693
+
+       sx = 1.032459
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 526.587272
+
+       distorted image plane error:
+         mean = 1.378463,  stddev = 1.383330,  max = 5.387017  [pix],  sse = 97.244233  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.378463,  stddev = 1.383330,  max = 5.387017  [pix],  sse = 97.244233  [pix^2]
+
+       object space error:
+         mean = 58.789054,  stddev = 39.044432,  max = 148.323676  [mm],  sse = 127971.664614  [mm^2]
+
+       normalized calibration error:  3.356420
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.758859  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -239.596897,  Ty = 2016.060320,  Tz = 1034.759230  [mm]
+
+       Rx = 96.000091,  Ry = -1.153752,  Rz = -0.451576  [deg]
+
+       R
+        0.999766  -0.020848  -0.005734
+       -0.007880  -0.104369  -0.994507
+        0.020135   0.994320  -0.104509
+
+       sx = 1.027058
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 588.312662
+
+       distorted image plane error:
+         mean = 1.704521,  stddev = 1.582071,  max = 6.079866  [pix],  sse = 148.930627  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.704521,  stddev = 1.582071,  max = 6.079866  [pix],  sse = 148.930627  [pix^2]
+
+       object space error:
+         mean = 69.879552,  stddev = 42.575996,  max = 165.725199  [mm],  sse = 185671.566764  [mm^2]
+
+       normalized calibration error:  4.146411
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.861744  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -230.220491,  Ty = 2021.748893,  Tz = 1662.291336  [mm]
+
+       Rx = 96.005353,  Ry = -1.121657,  Rz = -0.378118  [deg]
+
+       R
+        0.999787  -0.020158  -0.004515
+       -0.006598  -0.104491  -0.994504
+        0.019575   0.994322  -0.104601
+
+       sx = 1.034043
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 892.867632
+
+       distorted image plane error:
+         mean = 0.666022,  stddev = 0.395436,  max = 1.788422  [pix],  sse = 15.442474  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.666022,  stddev = 0.395436,  max = 1.788422  [pix],  sse = 15.442474  [pix^2]
+
+       object space error:
+         mean = 31.282585,  stddev = 15.577544,  max = 62.757331  [mm],  sse = 31510.101259  [mm^2]
+
+       normalized calibration error:  1.624003
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.858127  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -243.855969,  Ty = 2026.478286,  Tz = 1676.469422  [mm]
+
+       Rx = 96.012925,  Ry = -1.153808,  Rz = -0.364232  [deg]
+
+       R
+        0.999777  -0.020691  -0.004213
+       -0.006356  -0.104623  -0.994492
+        0.020136   0.994297  -0.104732
+
+       sx = 1.041763
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 902.236233
+
+       distorted image plane error:
+         mean = 0.752471,  stddev = 0.529702,  max = 2.207867  [pix],  sse = 21.736148  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.752471,  stddev = 0.529702,  max = 2.207867  [pix],  sse = 21.736148  [pix^2]
+
+       object space error:
+         mean = 33.251444,  stddev = 15.227106,  max = 63.611826  [mm],  sse = 34543.739989  [mm^2]
+
+       normalized calibration error:  1.830734
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.860605  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -202.845776,  Ty = 2012.451030,  Tz = 1561.996031  [mm]
+
+       Rx = 95.990998,  Ry = -1.053888,  Rz = -0.404498  [deg]
+
+       R
+        0.999806  -0.019029  -0.005102
+       -0.007059  -0.104240  -0.994527
+        0.018393   0.994370  -0.104355
+
+       sx = 1.019058
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 839.509593
+
+       distorted image plane error:
+         mean = 1.021230,  stddev = 0.559193,  max = 1.959544  [pix],  sse = 34.933099  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.021230,  stddev = 0.559193,  max = 1.959544  [pix],  sse = 34.933099  [pix^2]
+
+       object space error:
+         mean = 53.637629,  stddev = 37.231550,  max = 130.932441  [mm],  sse = 109456.583686  [mm^2]
+
+       normalized calibration error:  2.485277
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.859933  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -228.537033,  Ty = 2035.032467,  Tz = 1707.319217  [mm]
+
+       Rx = 96.057722,  Ry = -1.225201,  Rz = -0.398128  [deg]
+
+       R
+        0.999747  -0.021996  -0.004653
+       -0.006947  -0.105380  -0.994408
+        0.021382   0.994189  -0.105506
+
+       sx = 1.038665
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 917.946412
+
+       distorted image plane error:
+         mean = 0.758623,  stddev = 0.606911,  max = 2.535089  [pix],  sse = 24.171751  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.758623,  stddev = 0.606911,  max = 2.535089  [pix],  sse = 24.171751  [pix^2]
+
+       object space error:
+         mean = 33.348660,  stddev = 18.933420,  max = 72.360460  [mm],  sse = 37877.320814  [mm^2]
+
+       normalized calibration error:  1.846460
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.861551  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -225.999397,  Ty = 2018.765272,  Tz = 1651.628939  [mm]
+
+       Rx = 95.992330,  Ry = -1.239461,  Rz = -0.358644  [deg]
+
+       R
+        0.999746  -0.022166  -0.003967
+       -0.006258  -0.104259  -0.994531
+        0.021631   0.994303  -0.104371
+
+       sx = 1.032918
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 887.232860
+
+       distorted image plane error:
+         mean = 0.751378,  stddev = 0.572598,  max = 2.108721  [pix],  sse = 22.875508  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.751378,  stddev = 0.572598,  max = 2.108721  [pix],  sse = 22.875508  [pix^2]
+
+       object space error:
+         mean = 33.237969,  stddev = 18.727778,  max = 71.105202  [mm],  sse = 37492.068048  [mm^2]
+
+       normalized calibration error:  1.830070
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.850102  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -224.604257,  Ty = 2065.840831,  Tz = 1763.541901  [mm]
+
+       Rx = 96.179624,  Ry = -1.468727,  Rz = -0.443916  [deg]
+
+       R
+        0.999641  -0.026316  -0.004944
+       -0.007745  -0.107445  -0.994181
+        0.025631   0.993863  -0.107610
+
+       sx = 1.049957
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 953.213198
+
+       distorted image plane error:
+         mean = 1.560733,  stddev = 0.522652,  max = 2.813358  [pix],  sse = 70.162184  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.560733,  stddev = 0.522652,  max = 2.813358  [pix],  sse = 70.162184  [pix^2]
+
+       object space error:
+         mean = 73.897546,  stddev = 22.702596,  max = 115.697395  [mm],  sse = 154867.225464  [mm^2]
+
+       normalized calibration error:  3.744935
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.860605  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -202.845776,  Ty = 2012.451030,  Tz = 1561.996031  [mm]
+
+       Rx = 95.990998,  Ry = -1.053888,  Rz = -0.404498  [deg]
+
+       R
+        0.999806  -0.019029  -0.005102
+       -0.007059  -0.104240  -0.994527
+        0.018393   0.994370  -0.104355
+
+       sx = 1.019058
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 839.509593
+
+       distorted image plane error:
+         mean = 1.021230,  stddev = 0.559193,  max = 1.959544  [pix],  sse = 34.933099  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.021230,  stddev = 0.559193,  max = 1.959544  [pix],  sse = 34.933099  [pix^2]
+
+       object space error:
+         mean = 53.637629,  stddev = 37.231550,  max = 130.932441  [mm],  sse = 109456.583686  [mm^2]
+
+       normalized calibration error:  2.485277
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.876667  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -226.985276,  Ty = 2021.923571,  Tz = 1771.636180  [mm]
+
+       Rx = 96.004481,  Ry = -1.112190,  Rz = -0.368289  [deg]
+
+       R
+        0.999791  -0.019976  -0.004362
+       -0.006427  -0.104480  -0.994506
+        0.019410   0.994326  -0.104587
+
+       sx = 1.034381
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 944.033380
+
+       distorted image plane error:
+         mean = 0.622653,  stddev = 0.291171,  max = 1.415420  [pix],  sse = 12.199639  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.622653,  stddev = 0.291171,  max = 1.415420  [pix],  sse = 12.199639  [pix^2]
+
+       object space error:
+         mean = 30.453088,  stddev = 15.016611,  max = 62.630457  [mm],  sse = 29749.619314  [mm^2]
+
+       normalized calibration error:  1.519146
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.878222  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -241.300836,  Ty = 2021.232029,  Tz = 1767.535790  [mm]
+
+       Rx = 96.008835,  Ry = -1.154416,  Rz = -0.412376  [deg]
+
+       R
+        0.999771  -0.020789  -0.005049
+       -0.007196  -0.104535  -0.994495
+        0.020147   0.994304  -0.104661
+
+       sx = 1.032971
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 941.068378
+
+       distorted image plane error:
+         mean = 0.684139,  stddev = 0.437405,  max = 1.800329  [pix],  sse = 16.952271  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.684139,  stddev = 0.437405,  max = 1.800329  [pix],  sse = 16.952271  [pix^2]
+
+       object space error:
+         mean = 30.873346,  stddev = 15.754077,  max = 65.969528  [mm],  sse = 30987.024374  [mm^2]
+
+       normalized calibration error:  1.666801
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.877509  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -234.149238,  Ty = 2021.561871,  Tz = 1769.869405  [mm]
+
+       Rx = 96.006561,  Ry = -1.133247,  Rz = -0.390234  [deg]
+
+       R
+        0.999781  -0.020381  -0.004704
+       -0.006809  -0.104506  -0.994501
+        0.019778   0.994315  -0.104622
+
+       sx = 1.033651
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 942.668787
+
+       distorted image plane error:
+         mean = 0.610386,  stddev = 0.353874,  max = 1.484238  [pix],  sse = 12.817515  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.610386,  stddev = 0.353874,  max = 1.484238  [pix],  sse = 12.817515  [pix^2]
+
+       object space error:
+         mean = 28.617598,  stddev = 14.412013,  max = 55.624815  [mm],  sse = 26485.791901  [mm^2]
+
+       normalized calibration error:  1.490153
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.877662  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -235.580541,  Ty = 2021.493358,  Tz = 1769.448838  [mm]
+
+       Rx = 96.007001,  Ry = -1.137472,  Rz = -0.394647  [deg]
+
+       R
+        0.999779  -0.020463  -0.004773
+       -0.006886  -0.104512  -0.994500
+        0.019851   0.994313  -0.104629
+
+       sx = 1.033511
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 942.367916
+
+       distorted image plane error:
+         mean = 0.618042,  stddev = 0.370470,  max = 1.546355  [pix],  sse = 13.362563  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.618042,  stddev = 0.370470,  max = 1.546355  [pix],  sse = 13.362563  [pix^2]
+
+       object space error:
+         mean = 28.722549,  stddev = 14.579119,  max = 57.619234  [mm],  sse = 26763.372613  [mm^2]
+
+       normalized calibration error:  1.508464
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.877351  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -232.717441,  Ty = 2021.631659,  Tz = 1770.267300  [mm]
+
+       Rx = 96.006130,  Ry = -1.129027,  Rz = -0.385829  [deg]
+
+       R
+        0.999783  -0.020300  -0.004635
+       -0.006733  -0.104501  -0.994502
+        0.019704   0.994318  -0.104615
+
+       sx = 1.033793
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 942.960226
+
+       distorted image plane error:
+         mean = 0.606680,  stddev = 0.337256,  max = 1.422764  [pix],  sse = 12.413134  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.606680,  stddev = 0.337256,  max = 1.422764  [pix],  sse = 12.413134  [pix^2]
+
+       object space error:
+         mean = 28.698147,  stddev = 14.290744,  max = 56.029954  [mm],  sse = 26518.808499  [mm^2]
+
+       normalized calibration error:  1.481219
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.877188  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -231.285147,  Ty = 2021.702722,  Tz = 1770.642725  [mm]
+
+       Rx = 96.005706,  Ry = -1.124811,  Rz = -0.381432  [deg]
+
+       R
+        0.999785  -0.020219  -0.004567
+       -0.006656  -0.104495  -0.994503
+        0.019630   0.994320  -0.104607
+
+       sx = 1.033937
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 943.242320
+
+       distorted image plane error:
+         mean = 0.606474,  stddev = 0.321633,  max = 1.361993  [pix],  sse = 12.149285  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.606474,  stddev = 0.321633,  max = 1.361993  [pix],  sse = 12.149285  [pix^2]
+
+       object space error:
+         mean = 28.941803,  stddev = 14.260059,  max = 57.546908  [mm],  sse = 26862.059033  [mm^2]
+
+       normalized calibration error:  1.480614
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.877043  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -234.087247,  Ty = 2022.098829,  Tz = 1771.957258  [mm]
+
+       Rx = 96.006873,  Ry = -1.132311,  Rz = -0.384507  [deg]
+
+       R
+        0.999782  -0.020355  -0.004606
+       -0.006710  -0.104514  -0.994501
+        0.019761   0.994315  -0.104627
+
+       sx = 1.034556
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 944.015131
+
+       distorted image plane error:
+         mean = 0.607151,  stddev = 0.352294,  max = 1.413438  [pix],  sse = 12.687211  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.607151,  stddev = 0.352294,  max = 1.413438  [pix],  sse = 12.687211  [pix^2]
+
+       object space error:
+         mean = 28.460221,  stddev = 14.256806,  max = 54.933300  [mm],  sse = 26141.001305  [mm^2]
+
+       normalized calibration error:  1.482487
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.877320  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -229.914964,  Ty = 2020.677827,  Tz = 1760.367446  [mm]
+
+       Rx = 96.004617,  Ry = -1.122278,  Rz = -0.388519  [deg]
+
+       R
+        0.999785  -0.020188  -0.004695
+       -0.006780  -0.104474  -0.994504
+        0.019586   0.994323  -0.104589
+
+       sx = 1.032237
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 937.702288
+
+       distorted image plane error:
+         mean = 0.609599,  stddev = 0.286896,  max = 1.256340  [pix],  sse = 11.719618  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.609599,  stddev = 0.286896,  max = 1.256340  [pix],  sse = 11.719618  [pix^2]
+
+       object space error:
+         mean = 29.496213,  stddev = 14.271542,  max = 60.829300  [mm],  sse = 27712.613906  [mm^2]
+
+       normalized calibration error:  1.487712
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.877230  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -227.121319,  Ty = 2019.729738,  Tz = 1750.203529  [mm]
+
+       Rx = 96.003121,  Ry = -1.115505,  Rz = -0.391179  [deg]
+
+       R
+        0.999787  -0.020075  -0.004754
+       -0.006826  -0.104448  -0.994507
+        0.019468   0.994328  -0.104563
+
+       sx = 1.030693
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 932.333057
+
+       distorted image plane error:
+         mean = 0.622120,  stddev = 0.246035,  max = 1.091322  [pix],  sse = 11.576189  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.622120,  stddev = 0.246035,  max = 1.091322  [pix],  sse = 11.576189  [pix^2]
+
+       object space error:
+         mean = 30.763674,  stddev = 14.905855,  max = 66.183643  [mm],  sse = 30161.107424  [mm^2]
+
+       normalized calibration error:  1.517483
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.877081  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -224.336486,  Ty = 2018.787356,  Tz = 1739.778431  [mm]
+
+       Rx = 96.001640,  Ry = -1.108709,  Rz = -0.393811  [deg]
+
+       R
+        0.999789  -0.019962  -0.004812
+       -0.006872  -0.104422  -0.994509
+        0.019349   0.994333  -0.104537
+
+       sx = 1.029161
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 926.853338
+
+       distorted image plane error:
+         mean = 0.640770,  stddev = 0.228446,  max = 1.018064  [pix],  sse = 11.979943  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.640770,  stddev = 0.228446,  max = 1.018064  [pix],  sse = 11.979943  [pix^2]
+
+       object space error:
+         mean = 32.324094,  stddev = 16.371196,  max = 71.977253  [mm],  sse = 33866.424484  [mm^2]
+
+       normalized calibration error:  1.562344
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.876873  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -221.560450,  Ty = 2017.850648,  Tz = 1729.095065  [mm]
+
+       Rx = 96.000177,  Ry = -1.101891,  Rz = -0.396413  [deg]
+
+       R
+        0.999791  -0.019848  -0.004871
+       -0.006917  -0.104397  -0.994512
+        0.019230   0.994338  -0.104512
+
+       sx = 1.027641
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 921.263927
+
+       distorted image plane error:
+         mean = 0.664530,  stddev = 0.240533,  max = 1.107156  [pix],  sse = 12.927987  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.664530,  stddev = 0.240533,  max = 1.107156  [pix],  sse = 12.927987  [pix^2]
+
+       object space error:
+         mean = 34.110110,  stddev = 18.525275,  max = 78.119769  [mm],  sse = 38830.634573  [mm^2]
+
+       normalized calibration error:  1.619789
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.876873  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -221.560450,  Ty = 2017.850648,  Tz = 1729.095065  [mm]
+
+       Rx = 96.000177,  Ry = -1.101891,  Rz = -0.396413  [deg]
+
+       R
+        0.999791  -0.019848  -0.004871
+       -0.006917  -0.104397  -0.994512
+        0.019230   0.994338  -0.104512
+
+       sx = 1.027641
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 921.263927
+
+       distorted image plane error:
+         mean = 0.664530,  stddev = 0.240533,  max = 1.107156  [pix],  sse = 12.927987  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.664530,  stddev = 0.240533,  max = 1.107156  [pix],  sse = 12.927987  [pix^2]
+
+       object space error:
+         mean = 34.110110,  stddev = 18.525275,  max = 78.119769  [mm],  sse = 38830.634573  [mm^2]
+
+       normalized calibration error:  1.619789
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.877081  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -224.336486,  Ty = 2018.787356,  Tz = 1739.778431  [mm]
+
+       Rx = 96.001640,  Ry = -1.108709,  Rz = -0.393811  [deg]
+
+       R
+        0.999789  -0.019962  -0.004812
+       -0.006872  -0.104422  -0.994509
+        0.019349   0.994333  -0.104537
+
+       sx = 1.029161
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 926.853338
+
+       distorted image plane error:
+         mean = 0.640770,  stddev = 0.228446,  max = 1.018064  [pix],  sse = 11.979943  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.640770,  stddev = 0.228446,  max = 1.018064  [pix],  sse = 11.979943  [pix^2]
+
+       object space error:
+         mean = 32.324094,  stddev = 16.371196,  max = 71.977253  [mm],  sse = 33866.424484  [mm^2]
+
+       normalized calibration error:  1.562344
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.887185  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -221.521424,  Ty = 2016.354383,  Tz = 1813.668278  [mm]
+
+       Rx = 95.995230,  Ry = -1.097609,  Rz = -0.400187  [deg]
+
+       R
+        0.999792  -0.019780  -0.004946
+       -0.006983  -0.104310  -0.994520
+        0.019156   0.994348  -0.104426
+
+       sx = 1.026989
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 961.044030
+
+       distorted image plane error:
+         mean = 0.756550,  stddev = 0.440197,  max = 2.151776  [pix],  sse = 21.258196  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.756550,  stddev = 0.440197,  max = 2.151776  [pix],  sse = 21.258196  [pix^2]
+
+       object space error:
+         mean = 36.124908,  stddev = 19.765778,  max = 78.111141  [mm],  sse = 47088.773281  [mm^2]
+
+       normalized calibration error:  1.842153
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.884326  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -229.821258,  Ty = 2021.917862,  Tz = 1832.005819  [mm]
+
+       Rx = 96.007822,  Ry = -1.118058,  Rz = -0.377442  [deg]
+
+       R
+        0.999788  -0.020094  -0.004509
+       -0.006586  -0.104534  -0.994499
+        0.019513   0.994318  -0.104644
+
+       sx = 1.032751
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 972.234093
+
+       distorted image plane error:
+         mean = 0.698909,  stddev = 0.466093,  max = 2.378907  [pix],  sse = 19.542818  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.698909,  stddev = 0.466093,  max = 2.378907  [pix],  sse = 19.542818  [pix^2]
+
+       object space error:
+         mean = 31.579809,  stddev = 16.139499,  max = 67.061042  [mm],  sse = 34957.014148  [mm^2]
+
+       normalized calibration error:  1.702085
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886547  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -201.570457,  Ty = 2003.263426,  Tz = 1707.591296  [mm]
+
+       Rx = 95.966292,  Ry = -1.042622,  Rz = -0.451073  [deg]
+
+       R
+        0.999803  -0.018915  -0.005939
+       -0.007871  -0.103798  -0.994567
+        0.018196   0.994419  -0.103926
+
+       sx = 1.013406
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 905.140956
+
+       distorted image plane error:
+         mean = 1.061927,  stddev = 0.572373,  max = 2.184420  [pix],  sse = 40.420804  [pix^2]
+
+       undistorted image plane error:
+         mean = 1.061927,  stddev = 0.572373,  max = 2.184420  [pix],  sse = 40.420804  [pix^2]
+
+       object space error:
+         mean = 53.885230,  stddev = 38.322702,  max = 132.545644  [mm],  sse = 120954.299017  [mm^2]
+
+       normalized calibration error:  2.589540
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.885820  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -225.655878,  Ty = 2019.117265,  Tz = 1823.082173  [mm]
+
+       Rx = 96.001462,  Ry = -1.107967,  Rz = -0.388971  [deg]
+
+       R
+        0.999790  -0.019940  -0.004730
+       -0.006788  -0.104421  -0.994510
+        0.019336   0.994333  -0.104534
+
+       sx = 1.029852
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 966.731780
+
+       distorted image plane error:
+         mean = 0.719568,  stddev = 0.437363,  max = 2.110540  [pix],  sse = 19.662504  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.719568,  stddev = 0.437363,  max = 2.110540  [pix],  sse = 19.662504  [pix^2]
+
+       object space error:
+         mean = 33.526575,  stddev = 17.251254,  max = 69.220786  [mm],  sse = 39508.230527  [mm^2]
+
+       normalized calibration error:  1.752189
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886923  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -222.345846,  Ty = 2016.903947,  Tz = 1815.589616  [mm]
+
+       Rx = 95.996466,  Ry = -1.099702,  Rz = -0.397969  [deg]
+
+       R
+        0.999792  -0.019812  -0.004903
+       -0.006945  -0.104332  -0.994518
+        0.019192   0.994345  -0.104448
+
+       sx = 1.027559
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 962.196154
+
+       distorted image plane error:
+         mean = 0.747895,  stddev = 0.437124,  max = 2.108320  [pix],  sse = 20.820812  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.747895,  stddev = 0.437124,  max = 2.108320  [pix],  sse = 20.820812  [pix^2]
+
+       object space error:
+         mean = 35.557969,  stddev = 19.173174,  max = 76.272546  [mm],  sse = 45327.822159  [mm^2]
+
+       normalized calibration error:  1.821088
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886655  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.171501,  Ty = 2017.455017,  Tz = 1817.491784  [mm]
+
+       Rx = 95.997707,  Ry = -1.101785,  Rz = -0.395738  [deg]
+
+       R
+        0.999791  -0.019845  -0.004860
+       -0.006906  -0.104354  -0.994516
+        0.019229   0.994342  -0.104469
+
+       sx = 1.028130
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 963.341034
+
+       distorted image plane error:
+         mean = 0.739873,  stddev = 0.435254,  max = 2.065002  [pix],  sse = 20.442579  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.739873,  stddev = 0.435254,  max = 2.065002  [pix],  sse = 20.442579  [pix^2]
+
+       object space error:
+         mean = 35.014381,  stddev = 18.620496,  max = 74.462443  [mm],  sse = 43689.709960  [mm^2]
+
+       normalized calibration error:  1.801569
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886382  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.998391,  Ty = 2018.007592,  Tz = 1819.374672  [mm]
+
+       Rx = 95.998954,  Ry = -1.103856,  Rz = -0.393495  [deg]
+
+       R
+        0.999791  -0.019877  -0.004817
+       -0.006866  -0.104376  -0.994514
+        0.019265   0.994339  -0.104491
+
+       sx = 1.028702
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 964.478627
+
+       distorted image plane error:
+         mean = 0.732479,  stddev = 0.434646,  max = 2.021824  [pix],  sse = 20.123469  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.732479,  stddev = 0.434646,  max = 2.021824  [pix],  sse = 20.123469  [pix^2]
+
+       object space error:
+         mean = 34.494353,  stddev = 18.112741,  max = 72.682534  [mm],  sse = 42174.018652  [mm^2]
+
+       normalized calibration error:  1.783581
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886689  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.216481,  Ty = 2016.594653,  Tz = 1813.950313  [mm]
+
+       Rx = 95.994276,  Ry = -1.095452,  Rz = -0.393625  [deg]
+
+       R
+        0.999794  -0.019731  -0.004836
+       -0.006869  -0.104296  -0.994523
+        0.019118   0.994351  -0.104410
+
+       sx = 1.027801
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 961.446192
+
+       distorted image plane error:
+         mean = 0.742685,  stddev = 0.424343,  max = 2.050088  [pix],  sse = 20.306092  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.742685,  stddev = 0.424343,  max = 2.050088  [pix],  sse = 20.306092  [pix^2]
+
+       object space error:
+         mean = 35.417516,  stddev = 19.105241,  max = 76.229519  [mm],  sse = 44978.489728  [mm^2]
+
+       normalized calibration error:  1.808400
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886689  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.216481,  Ty = 2016.594653,  Tz = 1813.950313  [mm]
+
+       Rx = 95.994276,  Ry = -1.095452,  Rz = -0.393625  [deg]
+
+       R
+        0.999794  -0.019731  -0.004836
+       -0.006869  -0.104296  -0.994523
+        0.019118   0.994351  -0.104410
+
+       sx = 1.027801
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 961.446192
+
+       distorted image plane error:
+         mean = 0.742685,  stddev = 0.424343,  max = 2.050088  [pix],  sse = 20.306092  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.742685,  stddev = 0.424343,  max = 2.050088  [pix],  sse = 20.306092  [pix^2]
+
+       object space error:
+         mean = 35.417516,  stddev = 19.105241,  max = 76.229519  [mm],  sse = 44978.489728  [mm^2]
+
+       normalized calibration error:  1.808400
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886721  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.261552,  Ty = 2015.734561,  Tz = 1810.396181  [mm]
+
+       Rx = 95.990847,  Ry = -1.089127,  Rz = -0.391509  [deg]
+
+       R
+        0.999796  -0.019617  -0.004812
+       -0.006832  -0.104238  -0.994529
+        0.019008   0.994359  -0.104351
+
+       sx = 1.027472
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 959.546117
+
+       distorted image plane error:
+         mean = 0.745860,  stddev = 0.415553,  max = 2.035262  [pix],  sse = 20.239097  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.745860,  stddev = 0.415553,  max = 2.035262  [pix],  sse = 20.239097  [pix^2]
+
+       object space error:
+         mean = 35.838088,  stddev = 19.673257,  max = 78.027937  [mm],  sse = 46412.319194  [mm^2]
+
+       normalized calibration error:  1.816125
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886751  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.306714,  Ty = 2014.874745,  Tz = 1806.829415  [mm]
+
+       Rx = 95.987420,  Ry = -1.082811,  Rz = -0.389389  [deg]
+
+       R
+        0.999798  -0.019503  -0.004788
+       -0.006795  -0.104180  -0.994535
+        0.018897   0.994367  -0.104291
+
+       sx = 1.027144
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 957.640814
+
+       distorted image plane error:
+         mean = 0.749397,  stddev = 0.409006,  max = 2.020524  [pix],  sse = 20.241379  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.749397,  stddev = 0.409006,  max = 2.020524  [pix],  sse = 20.241379  [pix^2]
+
+       object space error:
+         mean = 36.275567,  stddev = 20.316988,  max = 79.855486  [mm],  sse = 47990.728653  [mm^2]
+
+       normalized calibration error:  1.824737
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886777  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.351964,  Ty = 2014.015207,  Tz = 1803.250039  [mm]
+
+       Rx = 95.983995,  Ry = -1.076503,  Rz = -0.387266  [deg]
+
+       R
+        0.999801  -0.019389  -0.004764
+       -0.006758  -0.104122  -0.994542
+        0.018787   0.994376  -0.104232
+
+       sx = 1.026817
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 955.730291
+
+       distorted image plane error:
+         mean = 0.753298,  stddev = 0.404781,  max = 2.005873  [pix],  sse = 20.312725  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.753298,  stddev = 0.404781,  max = 2.005873  [pix],  sse = 20.312725  [pix^2]
+
+       object space error:
+         mean = 36.729787,  stddev = 21.028277,  max = 81.710122  [mm],  sse = 49713.250126  [mm^2]
+
+       normalized calibration error:  1.834247
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886801  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.397304,  Ty = 2013.155951,  Tz = 1799.658080  [mm]
+
+       Rx = 95.980572,  Ry = -1.070203,  Rz = -0.385140  [deg]
+
+       R
+        0.999803  -0.019276  -0.004739
+       -0.006721  -0.104064  -0.994548
+        0.018677   0.994384  -0.104173
+
+       sx = 1.026489
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 953.814552
+
+       distorted image plane error:
+         mean = 0.757582,  stddev = 0.402900,  max = 1.991308  [pix],  sse = 20.452921  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.757582,  stddev = 0.402900,  max = 1.991308  [pix],  sse = 20.452921  [pix^2]
+
+       object space error:
+         mean = 37.201063,  stddev = 21.798474,  max = 83.589955  [mm],  sse = 51579.417358  [mm^2]
+
+       normalized calibration error:  1.844695
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886822  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.442733,  Ty = 2012.296978,  Tz = 1796.053565  [mm]
+
+       Rx = 95.977150,  Ry = -1.063912,  Rz = -0.383010  [deg]
+
+       R
+        0.999805  -0.019162  -0.004715
+       -0.006684  -0.104006  -0.994554
+        0.018568   0.994392  -0.104114
+
+       sx = 1.026162
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 951.893604
+
+       distorted image plane error:
+         mean = 0.762285,  stddev = 0.403299,  max = 1.976831  [pix],  sse = 20.661756  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.762285,  stddev = 0.403299,  max = 1.976831  [pix],  sse = 20.661756  [pix^2]
+
+       object space error:
+         mean = 37.690682,  stddev = 22.617852,  max = 85.704999  [mm],  sse = 53588.765822  [mm^2]
+
+       normalized calibration error:  1.856175
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886840  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.488250,  Ty = 2011.438292,  Tz = 1792.436520  [mm]
+
+       Rx = 95.973731,  Ry = -1.057630,  Rz = -0.380877  [deg]
+
+       R
+        0.999808  -0.019049  -0.004690
+       -0.006646  -0.103948  -0.994561
+        0.018458   0.994400  -0.104055
+
+       sx = 1.025836
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 949.967453
+
+       distorted image plane error:
+         mean = 0.767529,  stddev = 0.405709,  max = 1.962439  [pix],  sse = 20.939018  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.767529,  stddev = 0.405709,  max = 1.962439  [pix],  sse = 20.939018  [pix^2]
+
+       object space error:
+         mean = 38.203319,  stddev = 23.471822,  max = 87.946704  [mm],  sse = 55740.832710  [mm^2]
+
+       normalized calibration error:  1.868986
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886855  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.533855,  Ty = 2010.579896,  Tz = 1788.806972  [mm]
+
+       Rx = 95.970314,  Ry = -1.051355,  Rz = -0.378741  [deg]
+
+       R
+        0.999810  -0.018936  -0.004666
+       -0.006609  -0.103890  -0.994567
+        0.018349   0.994408  -0.103996
+
+       sx = 1.025509
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 948.036105
+
+       distorted image plane error:
+         mean = 0.773762,  stddev = 0.409186,  max = 1.948134  [pix],  sse = 21.284497  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.773762,  stddev = 0.409186,  max = 1.948134  [pix],  sse = 21.284497  [pix^2]
+
+       object space error:
+         mean = 38.755943,  stddev = 24.326871,  max = 90.192982  [mm],  sse = 58035.156939  [mm^2]
+
+       normalized calibration error:  1.884195
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886868  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.579547,  Ty = 2009.721793,  Tz = 1785.164948  [mm]
+
+       Rx = 95.966899,  Ry = -1.045089,  Rz = -0.376602  [deg]
+
+       R
+        0.999812  -0.018823  -0.004641
+       -0.006572  -0.103832  -0.994573
+        0.018239   0.994417  -0.103937
+
+       sx = 1.025184
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 946.099566
+
+       distorted image plane error:
+         mean = 0.781243,  stddev = 0.413138,  max = 1.933915  [pix],  sse = 21.697984  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.781243,  stddev = 0.413138,  max = 1.933915  [pix],  sse = 21.697984  [pix^2]
+
+       object space error:
+         mean = 39.357615,  stddev = 25.165133,  max = 92.443422  [mm],  sse = 60471.279149  [mm^2]
+
+       normalized calibration error:  1.902407
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886878  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -223.625327,  Ty = 2008.863985,  Tz = 1781.510476  [mm]
+
+       Rx = 95.963486,  Ry = -1.038832,  Rz = -0.374460  [deg]
+
+       R
+        0.999814  -0.018711  -0.004617
+       -0.006534  -0.103775  -0.994579
+        0.018130   0.994425  -0.103878
+
+       sx = 1.024858
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 944.157842
+
+       distorted image plane error:
+         mean = 0.789514,  stddev = 0.418374,  max = 1.919781  [pix],  sse = 22.179270  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.789514,  stddev = 0.418374,  max = 1.919781  [pix],  sse = 22.179270  [pix^2]
+
+       object space error:
+         mean = 39.991096,  stddev = 26.011881,  max = 94.697654  [mm],  sse = 63048.741700  [mm^2]
+
+       normalized calibration error:  1.922546
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886597  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -224.448108,  Ty = 2009.411783,  Tz = 1783.338184  [mm]
+
+       Rx = 95.964719,  Ry = -1.040883,  Rz = -0.372233  [deg]
+
+       R
+        0.999814  -0.018742  -0.004574
+       -0.006496  -0.103796  -0.994577
+        0.018166   0.994422  -0.103899
+
+       sx = 1.025421
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 945.267171
+
+       distorted image plane error:
+         mean = 0.777270,  stddev = 0.405773,  max = 1.876123  [pix],  sse = 21.361764  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.777270,  stddev = 0.405773,  max = 1.876123  [pix],  sse = 21.361764  [pix^2]
+
+       object space error:
+         mean = 39.284367,  stddev = 25.237241,  max = 92.574046  [mm],  sse = 60408.117722  [mm^2]
+
+       normalized calibration error:  1.892722
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886588  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -224.402739,  Ty = 2010.270068,  Tz = 1786.998156  [mm]
+
+       Rx = 95.968133,  Ry = -1.047143,  Rz = -0.374373  [deg]
+
+       R
+        0.999812  -0.018855  -0.004598
+       -0.006533  -0.103854  -0.994571
+        0.018275   0.994414  -0.103958
+
+       sx = 1.025747
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 947.211717
+
+       distorted image plane error:
+         mean = 0.769495,  stddev = 0.401390,  max = 1.890301  [pix],  sse = 20.929507  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.769495,  stddev = 0.401390,  max = 1.890301  [pix],  sse = 20.929507  [pix^2]
+
+       object space error:
+         mean = 38.668775,  stddev = 24.399391,  max = 90.322309  [mm],  sse = 57941.595098  [mm^2]
+
+       normalized calibration error:  1.873793
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.886337  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -229.919330,  Ty = 2004.180140,  Tz = 1762.875567  [mm]
+
+       Rx = 95.941559,  Ry = -0.986310,  Rz = -0.381422  [deg]
+
+       R
+        0.999830  -0.017810  -0.004839
+       -0.006656  -0.103398  -0.994618
+        0.017214   0.994481  -0.103499
+
+       sx = 1.022837
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 934.549689
+
+       distorted image plane error:
+         mean = 0.812581,  stddev = 0.441674,  max = 1.804858  [pix],  sse = 23.755116  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.812581,  stddev = 0.441674,  max = 1.804858  [pix],  sse = 23.755116  [pix^2]
+
+       object space error:
+         mean = 42.154861,  stddev = 30.167884,  max = 108.516577  [mm],  sse = 74329.636424  [mm^2]
+
+       normalized calibration error:  1.979309
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.885950  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -230.430776,  Ty = 2005.207491,  Tz = 1767.531164  [mm]
+
+       Rx = 95.943876,  Ry = -0.986034,  Rz = -0.390251  [deg]
+
+       R
+        0.999829  -0.017821  -0.004992
+       -0.006810  -0.103435  -0.994613
+        0.017209   0.994477  -0.103539
+
+       sx = 1.023686
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 937.210177
+
+       distorted image plane error:
+         mean = 0.772295,  stddev = 0.446068,  max = 1.831656  [pix],  sse = 22.072655  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.772295,  stddev = 0.446068,  max = 1.831656  [pix],  sse = 22.072655  [pix^2]
+
+       object space error:
+         mean = 40.069817,  stddev = 30.071755,  max = 106.995931  [mm],  sse = 69372.909139  [mm^2]
+
+       normalized calibration error:  1.881660
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (28 points)
+
+       f = 1.885335  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -236.151120,  Ty = 2000.242646,  Tz = 1744.600642  [mm]
+
+       Rx = 95.922335,  Ry = -0.919740,  Rz = -0.375940  [deg]
+
+       R
+        0.999850  -0.016643  -0.004870
+       -0.006560  -0.103073  -0.994652
+        0.016052   0.994535  -0.103167
+
+       sx = 1.020758
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 925.353052
+
+       distorted image plane error:
+         mean = 0.873837,  stddev = 0.496251,  max = 1.822694  [pix],  sse = 28.029729  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.873837,  stddev = 0.496251,  max = 1.822694  [pix],  sse = 28.029729  [pix^2]
+
+       object space error:
+         mean = 46.648904,  stddev = 36.590519,  max = 127.681149  [mm],  sse = 97080.750405  [mm^2]
+
+       normalized calibration error:  2.128622
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (27 points)
+
+       f = 1.883804  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -229.494866,  Ty = 2012.714748,  Tz = 1777.650945  [mm]
+
+       Rx = 95.975534,  Ry = -1.048859,  Rz = -0.402546  [deg]
+
+       R
+        0.999808  -0.018937  -0.005082
+       -0.007025  -0.103973  -0.994555
+        0.018305   0.994400  -0.104086
+
+       sx = 1.026081
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 943.649740
+
+       distorted image plane error:
+         mean = 0.718649,  stddev = 0.394416,  max = 2.091697  [pix],  sse = 17.988973  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.718649,  stddev = 0.394416,  max = 2.091697  [pix],  sse = 17.988973  [pix^2]
+
+       object space error:
+         mean = 36.234438,  stddev = 22.342969,  max = 86.488357  [mm],  sse = 48428.645973  [mm^2]
+
+       normalized calibration error:  1.751113
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.877395  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -228.556846,  Ty = 2012.378918,  Tz = 1715.605094  [mm]
+
+       Rx = 95.975257,  Ry = -1.048663,  Rz = -0.405762  [deg]
+
+       R
+        0.999807  -0.018939  -0.005138
+       -0.007081  -0.103967  -0.994555
+        0.018302   0.994400  -0.104082
+
+       sx = 1.025552
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 913.822330
+
+       distorted image plane error:
+         mean = 0.683182,  stddev = 0.288087,  max = 1.273328  [pix],  sse = 14.210049  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.683182,  stddev = 0.288087,  max = 1.273328  [pix],  sse = 14.210049  [pix^2]
+
+       object space error:
+         mean = 35.896655,  stddev = 22.649628,  max = 89.195067  [mm],  sse = 46327.956247  [mm^2]
+
+       normalized calibration error:  1.665408
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (27 points)
+
+       f = 1.880608  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -229.932372,  Ty = 2004.188837,  Tz = 1710.885773  [mm]
+
+       Rx = 95.941578,  Ry = -0.986342,  Rz = -0.381386  [deg]
+
+       R
+        0.999830  -0.017810  -0.004839
+       -0.006655  -0.103398  -0.994618
+        0.017214   0.994481  -0.103499
+
+       sx = 1.022846
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 909.751290
+
+       distorted image plane error:
+         mean = 0.800170,  stddev = 0.390123,  max = 1.563408  [pix],  sse = 21.244448  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.800170,  stddev = 0.390123,  max = 1.563408  [pix],  sse = 21.244448  [pix^2]
+
+       object space error:
+         mean = 42.432132,  stddev = 30.081624,  max = 109.438809  [mm],  sse = 72140.624169  [mm^2]
+
+       normalized calibration error:  1.949240
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.877081  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -224.336486,  Ty = 2018.787356,  Tz = 1739.778431  [mm]
+
+       Rx = 96.001640,  Ry = -1.108709,  Rz = -0.393811  [deg]
+
+       R
+        0.999789  -0.019962  -0.004812
+       -0.006872  -0.104422  -0.994509
+        0.019349   0.994333  -0.104537
+
+       sx = 1.029161
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 926.853338
+
+       distorted image plane error:
+         mean = 0.640770,  stddev = 0.228446,  max = 1.018064  [pix],  sse = 11.979943  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.640770,  stddev = 0.228446,  max = 1.018064  [pix],  sse = 11.979943  [pix^2]
+
+       object space error:
+         mean = 32.324094,  stddev = 16.371196,  max = 71.977253  [mm],  sse = 33866.424484  [mm^2]
+
+       normalized calibration error:  1.562344
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.877081  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -224.336486,  Ty = 2018.787356,  Tz = 1739.778431  [mm]
+
+       Rx = 96.001640,  Ry = -1.108709,  Rz = -0.393811  [deg]
+
+       R
+        0.999789  -0.019962  -0.004812
+       -0.006872  -0.104422  -0.994509
+        0.019349   0.994333  -0.104537
+
+       sx = 1.029161
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 926.853338
+
+       distorted image plane error:
+         mean = 0.640770,  stddev = 0.228446,  max = 1.018064  [pix],  sse = 11.979943  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.640770,  stddev = 0.228446,  max = 1.018064  [pix],  sse = 11.979943  [pix^2]
+
+       object space error:
+         mean = 32.324094,  stddev = 16.371196,  max = 71.977253  [mm],  sse = 33866.424484  [mm^2]
+
+       normalized calibration error:  1.562344
+
+
+Non-coplanar calibration (full optimization) 
+
+camera type: JVC TK-870E 
+
+data file: 1.txt  (26 points)
+
+       f = 1.877081  [mm]
+
+       kappa1 = 0.000000e+000  [1/mm^2]
+
+       Tx = -224.336486,  Ty = 2018.787356,  Tz = 1739.778431  [mm]
+
+       Rx = 96.001640,  Ry = -1.108709,  Rz = -0.393811  [deg]
+
+       R
+        0.999789  -0.019962  -0.004812
+       -0.006872  -0.104422  -0.994509
+        0.019349   0.994333  -0.104537
+
+       sx = 1.029161
+       Cx = 176.000000,  Cy = 144.000000  [pixels]
+
+       Tz / f = 926.853338
+
+       distorted image plane error:
+         mean = 0.640770,  stddev = 0.228446,  max = 1.018064  [pix],  sse = 11.979943  [pix^2]
+
+       undistorted image plane error:
+         mean = 0.640770,  stddev = 0.228446,  max = 1.018064  [pix],  sse = 11.979943  [pix^2]
+
+       object space error:
+         mean = 32.324094,  stddev = 16.371196,  max = 71.977253  [mm],  sse = 33866.424484  [mm^2]
+
+       normalized calibration error:  1.562344
+
